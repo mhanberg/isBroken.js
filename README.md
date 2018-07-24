@@ -8,4 +8,4 @@
 
 ### Contributors
 
-:man_technologist: @rpherbig
+:man_technologist: [@rpherbig](https://github.com/rpherbig)
